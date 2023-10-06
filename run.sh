@@ -1,0 +1,2 @@
+python run_sorl.py --config-file configs/supspectral_resnet_mlp1000_norelu_cifar100.yaml
+python run_sorl.py --config-file configs/supspectral_resnet_mlp1000_norelu_cifar10.yaml --gamma_l 0.25 --gamma_u 1 --c3_rate 1 --c4_rate 1 --c5_rate 1 --layer penul --labeled-num 5 --epochs 100
