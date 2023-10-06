@@ -2,8 +2,8 @@
 Yiyou Sun, Zhenmei Shi, Yixuan (Sharon) Li
 
 
-This repo contains the reference source code in PyTorch of the NSCL framework. 
-For more details please check our paper [A Graph-Theoretic Framework for Understanding Open-World Representation Learning]() (ICML 23). 
+This repo contains the reference source code in PyTorch of the SORL framework. 
+For more details please check our paper [A Graph-Theoretic Framework for Understanding Open-World Representation Learning](https://openreview.net/pdf?id=ZITOHWeAy7) (NeurIPS 23, **spotlight**). 
 
 ### Dependencies
 
