@@ -1,13 +1,13 @@
-## A Graph-Theoretic Framework for Understanding Open-World Representation Learning
+## A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning
 Yiyou Sun, Zhenmei Shi, Yixuan (Sharon) Li
 
 
 This repo contains the reference source code in PyTorch of the SORL framework. 
-For more details please check our paper [A Graph-Theoretic Framework for Understanding Open-World Representation Learning](https://openreview.net/pdf?id=ZITOHWeAy7) (NeurIPS 23, **spotlight**). 
+For more details please check our paper [A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning](https://openreview.net/pdf?id=ZITOHWeAy7) (NeurIPS 23, **spotlight**). 
 
 ### Dependencies
 
-The code is built with following libraries:
+The code is built with the following libraries:
 
 - [PyTorch==1.7.1](https://pytorch.org/)
 
@@ -29,7 +29,7 @@ If you find our code useful, please consider citing:
 ```
 @inproceedings{
     sun2023sorl,
-    title={A Graph-Theoretic Framework for Understanding Open-World Representation Learning},
+    title={A Graph-Theoretic Framework for Understanding Open-World Semi-Supervised Learning},
     author={Yiyou Sun and Zhenmei Shi and Yixuan Li},
     booktitle={NeurIPS},
     year={2023},
